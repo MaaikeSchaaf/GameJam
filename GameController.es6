@@ -1,6 +1,6 @@
 const class1 = require('./class1.es6')
-const class2 = require('./class2.es6')
-const class3 = require('./class3.es6')
+const class2 = require('./GameMove.es6')
+const class3 = require('./GameView.es6')
 
 class Controller {
   constructor(){
